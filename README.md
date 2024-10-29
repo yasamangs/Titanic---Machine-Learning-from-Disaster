@@ -12,9 +12,10 @@ This project explores the Titanic dataset, performing data preprocessing, explor
 
 ## Installation
 To run this project, install the following Python libraries:
-''' 
+
+```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
-'''
+```
 
 ## Usage
 
